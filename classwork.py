@@ -11,7 +11,7 @@ def hexagont():
 
 
 def bottom():
-    print("_''_'_''_'_''")
+    print("_''_'_''_'_'_''")
 
 
 hexagonb()
@@ -24,4 +24,3 @@ hexagont()
 hexagonb()
 bottom()
 hexagont()
-
